@@ -27,5 +27,5 @@ To-Do App/
 - **CSS**: For styling the app with custom modern themes.
 
 ## Developed by -
-- **Bejavada Sri Krishna Tarun, 21a31a05a3**
+- **Mallavarapu Kesava Naga Satya Manikanta, 21A31A05B5**
 - **Pragati Engineering College, Surampalem**
